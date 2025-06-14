@@ -2,7 +2,7 @@
 
 ## Frontend Developer
 
-## Portfolio - [Rohit Khokhar](https://rohitkhokhar.netlify.app/)
+## Portfolio - [Rohit Khokhar](https://rohitkhokhar.com/)
 
 ### Front-End
 
